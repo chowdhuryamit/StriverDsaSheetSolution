@@ -1,4 +1,6 @@
-class Solution {
+#include<bits/stdc++.h>
+using namespace std;
+class  Solution {
   public:
     int largest(vector<int> &arr) {
         int maxi=INT_MIN;
